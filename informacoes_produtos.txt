@@ -1,0 +1,490 @@
+Nome="30 Comprimidos de Liberação Prolongada" Preco=Glifage XR 500mg 30 comprimidos SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos EMS Gen... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos EMS Gen... SKU=
+Nome="500ml" Preco=Soro Fisiológico ADV Farma 500ml SKU=
+Nome="500ml" Preco=Soro Fisiológico ADV Farma 500ml SKU=
+Nome="15ml Gotas" Preco=Simeticona 75mg/ml Sabor Cereja Gotas 15ml Cimed ... SKU=
+Nome="15ml Gotas" Preco=Simeticona 75mg/ml Sabor Cereja Gotas 15ml Cimed ... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="200ml" Preco=Gel Lubrificante Íntimo K-MED 2 em 1 203g SKU=
+Nome="200ml" Preco=Gel Lubrificante Íntimo K-MED 2 em 1 203g SKU=
+Nome="6 Comprimidos" Preco=Engov 6 comprimidos SKU=
+Nome="6 Comprimidos" Preco=Engov 6 comprimidos SKU=
+Nome="10ml" Preco=Epocler 100mg/ml + 50mg/ml + 10mg/ml Sabor Abacaxi... SKU=
+Nome="10ml" Preco=Epocler 100mg/ml + 50mg/ml + 10mg/ml Sabor Abacaxi... SKU=
+Nome="50 Comprimidos" Preco=Dorflex analgésico e relaxante muscular 50 comprim... SKU=
+Nome="50 Comprimidos" Preco=Dorflex analgésico e relaxante muscular 50 comprim... SKU=
+Nome="10 Comprimidos" Preco=Dorflex analgésico e relaxante muscular 10 comprim... SKU=
+Nome="10 Comprimidos" Preco=Dorflex analgésico e relaxante muscular 10 comprim... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="30 Comprimidos" Preco=AAS Ácido Acetilsalicílico 100mg Infantil 30 compr... SKU=
+Nome="30 Comprimidos" Preco=AAS Ácido Acetilsalicílico 100mg Infantil 30 compr... SKU=
+Nome="200ml" Preco=Gel Lubrificante Íntimo K-MED 2 em 1 203g SKU=
+Nome="200ml" Preco=Gel Lubrificante Íntimo K-MED 2 em 1 203g SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="1 unidade" Preco=Autoteste para HIV Panbio SKU=
+Nome="1 unidade" Preco=Autoteste para HIV Panbio SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="10 Comprimidos" Preco=Maxalgina Dipirona Monoidratada 1g 10 comprimidos SKU=
+Nome="10 Comprimidos" Preco=Maxalgina Dipirona Monoidratada 1g 10 comprimidos SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="10 Cápsulas Gelatinosas" Preco=Simeticona 125mg 10 cápsulas Cimed Genérico SKU=
+Nome="10 Cápsulas Gelatinosas" Preco=Simeticona 125mg 10 cápsulas Cimed Genérico SKU=
+Nome="50ml" Preco=Spray de Higiene Nasal Neosoro Fluid 0,9% 50ml SKU=
+Nome="50ml" Preco=Spray de Higiene Nasal Neosoro Fluid 0,9% 50ml SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="50 Comprimidos" Preco=Dorflex analgésico e relaxante muscular 50 comprim... SKU=
+Nome="50 Comprimidos" Preco=Dorflex analgésico e relaxante muscular 50 comprim... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="20 Cápsulas Gelatinosas" Preco=Resfenol Paracetamol 400mg + Cloridrato Fenillefri... SKU=
+Nome="20 Cápsulas Gelatinosas" Preco=Resfenol Paracetamol 400mg + Cloridrato Fenillefri... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="20g" Preco=Cloridrato de Terbinafina 10mg Creme Dermatológico... SKU=
+Nome="20g" Preco=Cloridrato de Terbinafina 10mg Creme Dermatológico... SKU=
+Nome="10ml" Preco=Epocler 100mg/ml + 50mg/ml + 10mg/ml Sabor Abacaxi... SKU=
+Nome="10ml" Preco=Epocler 100mg/ml + 50mg/ml + 10mg/ml Sabor Abacaxi... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="60 Comprimidos" Preco=Forteviron WP Lab - 60 comprimidos SKU=
+Nome="60 Comprimidos" Preco=Forteviron WP Lab - 60 comprimidos SKU=
+Nome="2 Envelopes de 5g Cada" Preco=Sal de Fruta Eno Tradicional 2 envelopes 5g cada SKU=
+Nome="2 Envelopes de 5g Cada" Preco=Sal de Fruta Eno Tradicional 2 envelopes 5g cada SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="10 Comprimidos" Preco=Ibuprofeno 400mg 10 comprimidos Neo Química Genéri... SKU=
+Nome="10 Comprimidos" Preco=Ibuprofeno 400mg 10 comprimidos Neo Química Genéri... SKU=
+Nome="30 Tabletes" Preco=Lactosil 10.000 FCC Lactase 30 tabletes SKU=
+Nome="30 Tabletes" Preco=Lactosil 10.000 FCC Lactase 30 tabletes SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="30 Comprimidos" Preco=Ácido Acetilsalicílico 100mg Infantil Sabor Morang... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="20 Drágeas" Preco=Neosaldina Dipirona 300mg + Mucato de Isometepteno... SKU=
+Nome="20 Drágeas" Preco=Neosaldina Dipirona 300mg + Mucato de Isometepteno... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 1g 10 comprimidos Cimed Gené... SKU=
+Nome="30 Comprimidos de Liberação Prolongada" Preco=Glifage XR 500mg 30 comprimidos SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Hidratação Equilibrada FPS 70 Sem cor - 40ml SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Controle de Oleosidade... SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Controle de Oleosidade... SKU=
+Nome="120g" Preco=Gel de Limpeza Facial Needs Controle de Oleosidade... SKU=
+Nome="120g" Preco=Gel de Limpeza Facial Needs Controle de Oleosidade... SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Beauty Oil-Free FPS 70... SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Beauty Oil-Free FPS 70... SKU=
+Nome="20g" Preco=Acnen Gel Antiacne com 20g SKU=
+Nome="20g" Preco=Acnen Gel Antiacne com 20g SKU=
+Nome="150g" Preco=Hidratante Antiatrito Sallve 150g SKU=
+Nome="150g" Preco=Hidratante Antiatrito Sallve 150g SKU=
+Nome="100ml" Preco=Removedor de Esmalte Needs Argan sem Acetona 100ml SKU=
+Nome="100ml" Preco=Removedor de Esmalte Needs Argan sem Acetona 100ml SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Controle de Oleosidade... SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Controle de Oleosidade... SKU=
+Nome="40ml" Preco=Protetor Solar Facial Bioré Perfect Milk FPS 50 40... SKU=
+Nome="40ml" Preco=Protetor Solar Facial Bioré Perfect Milk FPS 50 40... SKU=
+Nome="100g" Preco=Hidratante Facial Nívea Antissinais Creme 100g SKU=
+Nome="100g" Preco=Hidratante Facial Nívea Antissinais Creme 100g SKU=
+Nome="50g" Preco=Hidratante Facial Needs Beauty com Ácido Glicólico... SKU=
+Nome="50g" Preco=Hidratante Facial Needs Beauty com Ácido Glicólico... SKU=
+Nome="250ml" Preco=Creme Antiestrias Mustela Maternité 3 em 1 250ml SKU=
+Nome="250ml" Preco=Creme Antiestrias Mustela Maternité 3 em 1 250ml SKU=
+Nome="9ml" Preco=Protetor Solar Mustela Stick FPS 50 Alta Proteção ... SKU=
+Nome="9ml" Preco=Protetor Solar Mustela Stick FPS 50 Alta Proteção ... SKU=
+Nome="60 Cápsulas" Preco=Suplemento Vitamínico Imecap Hair Max Cabelos e Un... SKU=
+Nome="60 Cápsulas" Preco=Suplemento Vitamínico Imecap Hair Max Cabelos e Un... SKU=
+Nome="30 Cápsulas" Preco=Suplemento Vitamínico Exímia Fortalize Cabelos e U... SKU=
+Nome="30 Cápsulas" Preco=Suplemento Vitamínico Exímia Fortalize Cabelos e U... SKU=
+Nome="150ml" Preco=Demaquilante Bioré Make Up Remover 150ml SKU=
+Nome="150ml" Preco=Demaquilante Bioré Make Up Remover 150ml SKU=
+Nome="30g Gel" Preco=Azelan 150mg/g Gel 30g SKU=
+Nome="30g Gel" Preco=Azelan 150mg/g Gel 30g SKU=
+Nome="140g + 40g" Preco=Kit Actine Darrow Gel de Limpeza 140g + Gel de Lim... SKU=
+Nome="140g + 40g" Preco=Kit Actine Darrow Gel de Limpeza 140g + Gel de Lim... SKU=
+Nome="30g" Preco=Creme Retexturizador Creamy Skincare Ácido Glicóli... SKU=
+Nome="30g" Preco=Creme Retexturizador Creamy Skincare Ácido Glicóli... SKU=
+Nome="150ml" Preco=Demaquilante Bioré Make Up Remover 150ml SKU=
+Nome="150ml" Preco=Demaquilante Bioré Make Up Remover 150ml SKU=
+Nome="200ml" Preco=Água Micelar Nivea Limpeza 7 em 1 Efeito Matte 200... SKU=
+Nome="200ml" Preco=Água Micelar Nivea Limpeza 7 em 1 Efeito Matte 200... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="130ml" Preco=Sabonete Facial Bioré Marshmallow Whip Moisture Re... SKU=
+Nome="130ml" Preco=Sabonete Facial Bioré Marshmallow Whip Moisture Re... SKU=
+Nome="400g" Preco=Gel de Limpeza Avène Cleanance Pele Oleosa com 400... SKU=
+Nome="400g" Preco=Gel de Limpeza Avène Cleanance Pele Oleosa com 400... SKU=
+Nome="120g" Preco=Gel de Limpeza Facial Needs Controle de Oleosidade... SKU=
+Nome="120g" Preco=Gel de Limpeza Facial Needs Controle de Oleosidade... SKU=
+Nome="300g" Preco=Refil Gel de Limpeza Facial Actine Darrow 300g SKU=
+Nome="300g" Preco=Refil Gel de Limpeza Facial Actine Darrow 300g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="30g" Preco=Gel Clareador Antiacne Creamy Skincare Ácido Mandé... SKU=
+Nome="30g" Preco=Gel Clareador Antiacne Creamy Skincare Ácido Mandé... SKU=
+Nome="120g" Preco=Gel de Limpeza Facial Needs Controle de Oleosidade... SKU=
+Nome="120g" Preco=Gel de Limpeza Facial Needs Controle de Oleosidade... SKU=
+Nome="70g" Preco=Sabonete em Barra Actine Control Pele Oleosa 70g SKU=
+Nome="70g" Preco=Sabonete em Barra Actine Control Pele Oleosa 70g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="40ml" Preco=Protetor Solar Facial Bioré Perfect Milk FPS 50 40... SKU=
+Nome="40ml" Preco=Protetor Solar Facial Bioré Perfect Milk FPS 50 40... SKU=
+Nome="8ml" Preco=Esmalte Cobertura Intensificadora da Cor Colorama 8ml SKU=
+Nome="8ml" Preco=Esmalte Cobertura Intensificadora da Cor Colorama 8ml SKU=
+Nome="100g" Preco=Esfoliante Facial Neutrogena Deep Clean Energizing... SKU=
+Nome="100g" Preco=Esfoliante Facial Neutrogena Deep Clean Energizing... SKU=
+Nome="30ml" Preco=Sérum Facial Hidratante Creamy Skyncare 30ml SKU=
+Nome="30ml" Preco=Sérum Facial Hidratante Creamy Skyncare 30ml SKU=
+Nome="15ml" Preco=Sérum Booster Facial Antimarcas Garnier Uniform&Ma... SKU=
+Nome="15ml" Preco=Sérum Booster Facial Antimarcas Garnier Uniform&Ma... SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Beauty Oil-Free FPS 70... SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Beauty Oil-Free FPS 70... SKU=
+Nome="30g" Preco=Creme Retexturizador Creamy Skincare Ácido Glicóli... SKU=
+Nome="30g" Preco=Creme Retexturizador Creamy Skincare Ácido Glicóli... SKU=
+Nome="200ml + 120ml" Preco=Kit Protetor Solar Corporal L'Oréal Expertise Supr... SKU=
+Nome="200ml + 120ml" Preco=Kit Protetor Solar Corporal L'Oréal Expertise Supr... SKU=
+Nome="100ml" Preco=Removedor de Esmalte Needs Argan sem Acetona 100ml SKU=
+Nome="100ml" Preco=Removedor de Esmalte Needs Argan sem Acetona 100ml SKU=
+Nome="12g" Preco=Protetor Solar Infantil Needs Kids FPS 70 Bastão s... SKU=
+Nome="12g" Preco=Protetor Solar Infantil Needs Kids FPS 70 Bastão s... SKU=
+Nome="3,6g" Preco=Protetor Solar Labial Needs Hidratante FPS20 com 3... SKU=
+Nome="3,6g" Preco=Protetor Solar Labial Needs Hidratante FPS20 com 3... SKU=
+Nome="50ml" Preco=Hidratante Facial Epidrat Rosto Acqua 50ml SKU=
+Nome="50ml" Preco=Hidratante Facial Epidrat Rosto Acqua 50ml SKU=
+Nome="80g" Preco=Sabonete Facial em Barra Asepxia Esfoliante Antiac... SKU=
+Nome="80g" Preco=Sabonete Facial em Barra Asepxia Esfoliante Antiac... SKU=
+Nome="1 unidade" Preco=Kit de Cuidado para as Unhas Mundial Inox 778-EP A... SKU=
+Nome="1 unidade" Preco=Kit de Cuidado para as Unhas Mundial Inox 778-EP A... SKU=
+Nome="80g" Preco=Talco Líquido Amilia TheraSkin 80g SKU=
+Nome="80g" Preco=Talco Líquido Amilia TheraSkin 80g SKU=
+Nome="50ml" Preco=Protetor Solar Facial Eucerin Sun Pigment Control ... SKU=
+Nome="50ml" Preco=Protetor Solar Facial Eucerin Sun Pigment Control ... SKU=
+Nome="500ml" Preco=Refil Sabonete Líquido para Mãos Lux Botanicals Ca... SKU=
+Nome="500ml" Preco=Refil Sabonete Líquido para Mãos Lux Botanicals Ca... SKU=
+Nome="100ml" Preco=Removedor de Esmalte Needs com Acetona 100ml SKU=
+Nome="100ml" Preco=Removedor de Esmalte Needs com Acetona 100ml SKU=
+Nome="40g" Preco=Protetor Solar Facial Needs Hidratação Equilibrada FPS 70 Sem cor - 40ml SKU=
+Nome="10g" Preco=Delineador para Cabelos Xô Frizz Forever Liss 10g SKU=
+Nome="75g" Preco=Cera Bastão Finalizadora TIGI Bed Head Hair Stick ... SKU=
+Nome="75g" Preco=Cera Bastão Finalizadora TIGI Bed Head Hair Stick ... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="100ml" Preco=Óleo Capilar Niely Gold Hidratação Milagrosa com Á... SKU=
+Nome="100ml" Preco=Óleo Capilar Niely Gold Hidratação Milagrosa com Á... SKU=
+Nome="60 Cápsulas" Preco=Suplemento Vitamínico Imecap Hair Max Cabelos e Un... SKU=
+Nome="60 Cápsulas" Preco=Suplemento Vitamínico Imecap Hair Max Cabelos e Un... SKU=
+Nome="1 Unidade" Preco=Kit Elseve Reparação Total 5 Shampoo com 375ml + C... SKU=
+Nome="1 Unidade" Preco=Kit Elseve Reparação Total 5 Shampoo com 375ml + C... SKU=
+Nome="100ml" Preco=Óleo Extraordinário Tratamento Reconstrutor L'Oréa... SKU=
+Nome="100ml" Preco=Óleo Extraordinário Tratamento Reconstrutor L'Oréa... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="100ml" Preco=Loção Capilar Clareadora Camomila Intea Loiro Natu... SKU=
+Nome="100ml" Preco=Loção Capilar Clareadora Camomila Intea Loiro Natu... SKU=
+Nome="1 Unidade" Preco=Kit Elseve Liso dos Sonhos Shampoo com 375ml + Con... SKU=
+Nome="1 Unidade" Preco=Kit Elseve Liso dos Sonhos Shampoo com 375ml + Con... SKU=
+Nome="250ml" Preco=Shampoo Matizador Amend Specialist Blonde com 250m... SKU=
+Nome="250ml" Preco=Shampoo Matizador Amend Specialist Blonde com 250m... SKU=
+Nome="40g" Preco=Gel Tonalizante Grecin Tons de Grisalho com 40g SKU=
+Nome="40g" Preco=Gel Tonalizante Grecin Tons de Grisalho com 40g SKU=
+Nome="1 Unidade" Preco=Kit Tio Nacho Engrossador com 1 Shampoo de 415ml +... SKU=
+Nome="1 Unidade" Preco=Kit Tio Nacho Engrossador com 1 Shampoo de 415ml +... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Ice Cool Mentho SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Ice Cool Mentho SKU=
+Nome="50ml" Preco=Shampoo Seco Needs Candy e Tutti Frutti 50ml SKU=
+Nome="50ml" Preco=Shampoo Seco Needs Candy e Tutti Frutti 50ml SKU=
+Nome="1 Unidade" Preco=Kit Phytoervas Antiqueda com 1 Shampoo + 1 Condici... SKU=
+Nome="1 Unidade" Preco=Kit Phytoervas Antiqueda com 1 Shampoo + 1 Condici... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="150ml" Preco=Shampoo Seco Needs Candy e Tutti Frutti 150ml SKU=
+Nome="150ml" Preco=Shampoo Seco Needs Candy e Tutti Frutti 150ml SKU=
+Nome="1 Unidade" Preco=Kit Aussie Mega Moist Shampoo180ml + Creme de Tra... SKU=
+Nome="1 Unidade" Preco=Kit Aussie Mega Moist Shampoo180ml + Creme de Tra... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Limpeza Diária 2 em 1 ... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Limpeza Diária 2 em 1 ... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Limpeza Diária 2 em 1 ... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Limpeza Diária 2 em 1 ... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="500ml" Preco=Creme Milagroso 3 em 1 L'Oréal Paris Elseve Cachos... SKU=
+Nome="500ml" Preco=Creme Milagroso 3 em 1 L'Oréal Paris Elseve Cachos... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="400ml" Preco=Shampoo de Cuidados com a Raiz Head & Shoulders An... SKU=
+Nome="400ml" Preco=Shampoo de Cuidados com a Raiz Head & Shoulders An... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Hidratação Intensa com 400... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Hidratação Intensa com 400... SKU=
+Nome="200ml" Preco=Shampoo Elseve L'Oréal Hydra Detox 48h Anti-Caspa ... SKU=
+Nome="200ml" Preco=Shampoo Elseve L'Oréal Hydra Detox 48h Anti-Caspa ... SKU=
+Nome="250g" Preco=Creme Protetor Capilar Lola Bemdita Pré e Pós Prai... SKU=
+Nome="250g" Preco=Creme Protetor Capilar Lola Bemdita Pré e Pós Prai... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="1 Unidade" Preco=Kit Tresemmé Brilho Lamelar Shampoo 350ml + Condic... SKU=
+Nome="1 Unidade" Preco=Kit Tresemmé Brilho Lamelar Shampoo 350ml + Condic... SKU=
+Nome="1 Unidade" Preco=Tintura Imédia Excellence Permanente Sem Amônia 6U... SKU=
+Nome="1 Unidade" Preco=Tintura Imédia Excellence Permanente Sem Amônia 6U... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="1 Unidade" Preco=Tintura Imédia Excellence Permanente Sem Amônia 5U... SKU=
+Nome="1 Unidade" Preco=Tintura Imédia Excellence Permanente Sem Amônia 5U... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Limpeza Diária 2 em 1 ... SKU=
+Nome="400ml" Preco=Shampoo Anticaspa Clear Men Limpeza Diária 2 em 1 ... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120ml" Preco=Shampoo Dermatológico Darrow Doctar Plus Anticaspa... SKU=
+Nome="120ml" Preco=Shampoo Dermatológico Darrow Doctar Plus Anticaspa... SKU=
+Nome="170ml" Preco=Sérum TRESemmé Brilho Lamelar 170ml SKU=
+Nome="170ml" Preco=Sérum TRESemmé Brilho Lamelar 170ml SKU=
+Nome="400ml" Preco=Shampoo Elseve Hydra Detox 48h Reequilibrante com ... SKU=
+Nome="400ml" Preco=Shampoo Elseve Hydra Detox 48h Reequilibrante com ... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="415ml" Preco=Tio Nacho Engrossador Shampoo com 415ml SKU=
+Nome="415ml" Preco=Tio Nacho Engrossador Shampoo com 415ml SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="175ml" Preco=Leave-in Multifuncional Dove Reconstrução 5 em 1 S... SKU=
+Nome="175ml" Preco=Leave-in Multifuncional Dove Reconstrução 5 em 1 S... SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="120g" Preco=Creme Preventivo de Assaduras Needs 120g SKU=
+Nome="400ml" Preco=Shampoo L'Oréal Paris Elseve Pure Hialurônico 400m... SKU=
+Nome="400ml" Preco=Shampoo L'Oréal Paris Elseve Pure Hialurônico 400m... SKU=
+Nome="10g" Preco=Delineador para Cabelos Xô Frizz Forever Liss 10g SKU=
+Nome="60s" Preco=Ômega 3 1000mg Catarinense com 60 cápsulas SKU=
+Nome="1 Unidade" Preco=Kit Ômega 3 Catarinense 1000mg com 120 cápsulas + ... SKU=
+Nome="1 Unidade" Preco=Kit Ômega 3 Catarinense 1000mg com 120 cápsulas + ... SKU=
+Nome="30 Comprimidos" Preco=Suplemento Alimentar Addera Max Vitamina D 30 Comp... SKU=
+Nome="30 Comprimidos" Preco=Suplemento Alimentar Addera Max Vitamina D 30 Comp... SKU=
+Nome="20 Comprimidos Revestidos" Preco=Suplemento Vitamínico Complexo B12 com 20 comprimi... SKU=
+Nome="20 Comprimidos Revestidos" Preco=Suplemento Vitamínico Complexo B12 com 20 comprimi... SKU=
+Nome="10ml Solução Oftálmica" Preco=Colírio Hyabak 0,15% 10ml SKU=
+Nome="10ml Solução Oftálmica" Preco=Colírio Hyabak 0,15% 10ml SKU=
+Nome="5 Frascos" Preco=Probiótico Enterogermina Plus 5 frascos de 5ml SKU=
+Nome="5 Frascos" Preco=Probiótico Enterogermina Plus 5 frascos de 5ml SKU=
+Nome="6 Cápsulas Duras" Preco=Probiótico Repoflor 200mg 6 cápsulas SKU=
+Nome="6 Cápsulas Duras" Preco=Probiótico Repoflor 200mg 6 cápsulas SKU=
+Nome="90 Comprimidos" Preco=Suplemento Alimentar Gestantes NeutroFer Folato D ... SKU=
+Nome="90 Comprimidos" Preco=Suplemento Alimentar Gestantes NeutroFer Folato D ... SKU=
+Nome="60 Cápsulas" Preco=Suplemento Alimentar Magnésio Dimalato 60 Cápsulas SKU=
+Nome="60 Cápsulas" Preco=Suplemento Alimentar Magnésio Dimalato 60 Cápsulas SKU=
+Nome="5 Frascos" Preco=Probiótico Enterogermina Plus 5 frascos de 5ml SKU=
+Nome="5 Frascos" Preco=Probiótico Enterogermina Plus 5 frascos de 5ml SKU=
+Nome="100 Comprimidos Revestidos" Preco=Complexo B Polivitamínico EMS 100 comprimidos SKU=
+Nome="100 Comprimidos Revestidos" Preco=Complexo B Polivitamínico EMS 100 comprimidos SKU=
+Nome="10 Frascos" Preco=Probiótico Enterogermina 10 frascos de 5ml SKU=
+Nome="10 Frascos" Preco=Probiótico Enterogermina 10 frascos de 5ml SKU=
+Nome="30 Comprimidos Revestidos" Preco=Suplemento Vitamínico Magnen B6 - 30 Comprimidos SKU=
+Nome="30 Comprimidos Revestidos" Preco=Suplemento Vitamínico Magnen B6 - 30 Comprimidos SKU=
+Nome="30 Cápsulas" Preco=Vitamina D DPrev Todo Dia 1000Ui com 30 Cápsulas SKU=
+Nome="30 Cápsulas" Preco=Vitamina D DPrev Todo Dia 1000Ui com 30 Cápsulas SKU=
+Nome="30 comprimidos" Preco=Vitamina D DPrev Ative Calcifediol 10mcg 30 compri... SKU=
+Nome="30 comprimidos" Preco=Vitamina D DPrev Ative Calcifediol 10mcg 30 compri... SKU=
+Nome="6 Cápsulas Gelatinosas" Preco=Probiótico Floratil 200mg 6 Cápsulas SKU=
+Nome="6 Cápsulas Gelatinosas" Preco=Probiótico Floratil 200mg 6 Cápsulas SKU=
+Nome="10 Comprimidos" Preco=Novalgina 1g Analgésico e Antitérmico 10 comprimid... SKU=
+Nome="10 Comprimidos" Preco=Novalgina 1g Analgésico e Antitérmico 10 comprimid... SKU=
+Nome="30 cápsulas" Preco=Suplemento Fisiogen Ferro Forte com 30 cápsulas SKU=
+Nome="30 cápsulas" Preco=Suplemento Fisiogen Ferro Forte com 30 cápsulas SKU=
+Nome="10 Frascos" Preco=Probiótico Enterogermina 10 frascos de 5ml SKU=
+Nome="10 Frascos" Preco=Probiótico Enterogermina 10 frascos de 5ml SKU=
+Nome="60 Comprimidos Revestidos" Preco=Suplemento Alimentar Caldê MDK 2.000UI 60 comprimi... SKU=
+Nome="60 Comprimidos Revestidos" Preco=Suplemento Alimentar Caldê MDK 2.000UI 60 comprimi... SKU=
+Nome="60 Cápsulas" Preco=Ômega 3 1000mg Catarinense com 60 cápsulas SKU=
+Nome="60 Cápsulas" Preco=Ômega 3 1000mg Catarinense com 60 cápsulas SKU=
+Nome="200 ML" Preco=Suplemento Alimentar Nutridrink Protein Morango 20... SKU=
+Nome="200 ML" Preco=Suplemento Alimentar Nutridrink Protein Morango 20... SKU=
+Nome="30 cápsulas" Preco=Suplemento Fisiogen Ferro Forte com 30 cápsulas SKU=
+Nome="30 cápsulas" Preco=Suplemento Fisiogen Ferro Forte com 30 cápsulas SKU=
+Nome="90 Comprimidos" Preco=Suplemento Alimentar Gestantes NeutroFer Folato D ... SKU=
+Nome="90 Comprimidos" Preco=Suplemento Alimentar Gestantes NeutroFer Folato D ... SKU=
+Nome="10 Comprimidos Efervescentes" Preco=Vitamina C Bio-C + Zinco com 10 Comprimidos Eferve... SKU=
+Nome="10 Comprimidos Efervescentes" Preco=Vitamina C Bio-C + Zinco com 10 Comprimidos Eferve... SKU=
+Nome="30 cápsulas" Preco=Suplemento Fisiogen Ferro Forte com 30 cápsulas SKU=
+Nome="30 cápsulas" Preco=Suplemento Fisiogen Ferro Forte com 30 cápsulas SKU=
+Nome="4 envelopes" Preco=Sais para Reidratação Oral Hidraplex Natulab Pó pa... SKU=
+Nome="4 envelopes" Preco=Sais para Reidratação Oral Hidraplex Natulab Pó pa... SKU=
+Nome="200ml" Preco=Nutridrink Protein Sabor Baunilha 200ml SKU=
+Nome="200ml" Preco=Nutridrink Protein Sabor Baunilha 200ml SKU=
+Nome="120ml Solução Oral" Preco=Lactuliv Solução Oral Sabor Ameixa 120ml SKU=
+Nome="120ml Solução Oral" Preco=Lactuliv Solução Oral Sabor Ameixa 120ml SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="10 Comprimidos" Preco=Dipirona Monoidratada 500mg 10 comprimidos Medley ... SKU=
+Nome="90 Comprimidos Revestidos" Preco=Vitamina D Addera D3 1.000UI com 90 Comprimidos SKU=
+Nome="90 Comprimidos Revestidos" Preco=Vitamina D Addera D3 1.000UI com 90 Comprimidos SKU=
+Nome="60 Cápsulas" Preco=Ômega 3 1000mg Catarinense com 60 cápsulas SKU=
+Nome="60 Cápsulas" Preco=Ômega 3 1000mg Catarinense com 60 cápsulas SKU=
+Nome="2 Unidades de 65ml cada" Preco=Adoçante Zero-Cal Eritritol Líquido - 2 Unidades d... SKU=
+Nome="2 Unidades de 65ml cada" Preco=Adoçante Zero-Cal Eritritol Líquido - 2 Unidades d... SKU=
+Nome="30 Comprimidos Revestidos" Preco=Vitamina D Koli D3 Vit 2.000 UI 30 comprimidos SKU=
+Nome="30 Comprimidos Revestidos" Preco=Vitamina D Koli D3 Vit 2.000 UI 30 comprimidos SKU=
+Nome="2 Unidades" Preco=Kit Adoçante Líquido Zero-Cal Sucralose 2 unidades... SKU=
+Nome="2 Unidades" Preco=Kit Adoçante Líquido Zero-Cal Sucralose 2 unidades... SKU=
+Nome="30 comprimidos" Preco=Vitamina D DPrev Ative Calcifediol 10mcg 30 compri... SKU=
+Nome="30 comprimidos" Preco=Vitamina D DPrev Ative Calcifediol 10mcg 30 compri... SKU=
+Nome="120ml Solução Oral" Preco=Lactuliv Solução Oral Sabor Ameixa 120ml SKU=
+Nome="120ml Solução Oral" Preco=Lactuliv Solução Oral Sabor Ameixa 120ml SKU=
+Nome="5ml" Preco=Probiótico Colidis Gotas 5ml SKU=
+Nome="5ml" Preco=Probiótico Colidis Gotas 5ml SKU=
+Nome="200ml" Preco=Suplemento Alimentar Nestlé Impact Banana 200ml SKU=
+Nome="200ml" Preco=Suplemento Alimentar Nestlé Impact Banana 200ml SKU=
+Nome="90 Comprimidos Revestidos" Preco=Vitamina D Addera D3 2.000UI - 90 Comprimidos SKU=
+Nome="90 Comprimidos Revestidos" Preco=Vitamina D Addera D3 2.000UI - 90 Comprimidos SKU=
+Nome="200ml" Preco=Suplemento Alimentar Nestlé Impact Baunilha 200ml SKU=
+Nome="200ml" Preco=Suplemento Alimentar Nestlé Impact Baunilha 200ml SKU=
+Nome="150 Comprimidos Mastigáveis" Preco=Suplemento Alimentar Lavitan Melatonina Morango co... SKU=
+Nome="150 Comprimidos Mastigáveis" Preco=Suplemento Alimentar Lavitan Melatonina Morango co... SKU=
+Nome="30 Cápsulas" Preco=Vitamina D DPrev Todo Dia 1000Ui com 30 Cápsulas SKU=
+Nome="30 Cápsulas" Preco=Vitamina D DPrev Todo Dia 1000Ui com 30 Cápsulas SKU=
+Nome="30 Cápsulas" Preco=Suplemento Alimentar Feminis 30 cápsulas SKU=
+Nome="30 Cápsulas" Preco=Suplemento Alimentar Feminis 30 cápsulas SKU=
+Nome="30 Comprimidos" Preco=Suplemento Alimentar Addera Max Vitamina D 30 Comp... SKU=
+Nome="30 Comprimidos" Preco=Suplemento Alimentar Addera Max Vitamina D 30 Comp... SKU=
+Nome="30 Cápsulas" Preco=Vitamina D 2.000UI Raia 30 Cápsulas SKU=
+Nome="30 Cápsulas" Preco=Vitamina D 2.000UI Raia 30 Cápsulas SKU=
+Nome="6 Cápsulas Duras" Preco=Probiótico Repoflor 200mg 6 cápsulas SKU=
+Nome="6 Cápsulas Duras" Preco=Probiótico Repoflor 200mg 6 cápsulas SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="1 Unidade" Preco=Autoteste Antígeno Nasal Covid-19 Needs com 1 unid... SKU=
+Nome="90 Comprimidos Revestidos" Preco=Vitamina D Addera D3 2.000UI - 90 Comprimidos SKU=
+Nome="90 Comprimidos Revestidos" Preco=Vitamina D Addera D3 2.000UI - 90 Comprimidos SKU=
+Nome="60s" Preco=Ômega 3 1000mg Catarinense com 60 cápsulas SKU=
+Nome="84un" Preco=Fralda Pampers Confort Sec XXG 84 unidades SKU=
+Nome="88 unidades" Preco=Fralda Pampers Confort Sec XG 88 unidades SKU=
+Nome="88 unidades" Preco=Fralda Pampers Confort Sec XG 88 unidades SKU=
+Nome="176 Unidades" Preco=Lenço Umedecido Needs Baby Aloe Vera 176 Unidades SKU=
+Nome="176 Unidades" Preco=Lenço Umedecido Needs Baby Aloe Vera 176 Unidades SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Supreme Care Kit 4 pacotes... SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Supreme Care Kit 4 pacotes... SKU=
+Nome="800g" Preco=Composto Lácteo Ninho Fases 3+ Nestlé 3 a 5 anos 8... SKU=
+Nome="800g" Preco=Composto Lácteo Ninho Fases 3+ Nestlé 3 a 5 anos 8... SKU=
+Nome="2 Unidades de 800g cada" Preco=Kit Fórmula Infantil Nanlac Comfor 1 a 3 Anos com ... SKU=
+Nome="2 Unidades de 800g cada" Preco=Kit Fórmula Infantil Nanlac Comfor 1 a 3 Anos com ... SKU=
+Nome="98 unidades" Preco=Fralda Pampers Confort Sec G 98 unidades SKU=
+Nome="98 unidades" Preco=Fralda Pampers Confort Sec G 98 unidades SKU=
+Nome="90 Unidades" Preco=Fralda Pampers Premium Care Pants XXG - 90 Unidade... SKU=
+Nome="90 Unidades" Preco=Fralda Pampers Premium Care Pants XXG - 90 Unidade... SKU=
+Nome="100ml" Preco=Repelente Infantil SBP Baby Sem Fragrância Loção C... SKU=
+Nome="100ml" Preco=Repelente Infantil SBP Baby Sem Fragrância Loção C... SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Max Clean - 4 Pacotes com ... SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Max Clean - 4 Pacotes com ... SKU=
+Nome="800g" Preco=Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos ... SKU=
+Nome="800g" Preco=Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos ... SKU=
+Nome="75 Unidades" Preco=Hastes Flexíveis Cotonetes Johnson & Johnson com 7... SKU=
+Nome="75 Unidades" Preco=Hastes Flexíveis Cotonetes Johnson & Johnson com 7... SKU=
+Nome="800g" Preco=Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos ... SKU=
+Nome="800g" Preco=Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos ... SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Max Clean - 4 Pacotes com ... SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Max Clean - 4 Pacotes com ... SKU=
+Nome="176 Unidades" Preco=Lenço Umedecido Needs Baby Recém-Nascido Aloe Vera... SKU=
+Nome="176 Unidades" Preco=Lenço Umedecido Needs Baby Recém-Nascido Aloe Vera... SKU=
+Nome="60 Unidades" Preco=Fralda Needs Baby Mega G - 60 Unidades SKU=
+Nome="60 Unidades" Preco=Fralda Needs Baby Mega G - 60 Unidades SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Max Clean - 4 Pacotes com ... SKU=
+Nome="192 Unidades" Preco=Lenço Umedecido Huggies Max Clean - 4 Pacotes com ... SKU=
+Nome="300ml" Preco=Creme de Limpeza Calmante Dercos Sensi-Scalp 300ml SKU=
+Nome="300ml" Preco=Creme de Limpeza Calmante Dercos Sensi-Scalp 300ml SKU=
+Nome="12 Pacotes" Preco=Lenços Umedecidos Pampers Limpeza Delicada - 12 pa... SKU=
+Nome="12 Pacotes" Preco=Lenços Umedecidos Pampers Limpeza Delicada - 12 pa... SKU=
+Nome="30g" Preco=Creme para Assadura Bepantol Baby 30g SKU=
+Nome="30g" Preco=Creme para Assadura Bepantol Baby 30g SKU=
+Nome="250ml" Preco=Sabonete Líquido de Glicerina Granado Bebê Tradici... SKU=
+Nome="250ml" Preco=Sabonete Líquido de Glicerina Granado Bebê Tradici... SKU=
+Nome="250ml" Preco=Sabonete Líquido de Glicerina Granado Bebê Tradici... SKU=
+Nome="250ml" Preco=Sabonete Líquido de Glicerina Granado Bebê Tradici... SKU=
+Nome="45g" Preco=Creme Contra Assadura Hipoglós Original Trata e Pr... SKU=
+Nome="45g" Preco=Creme Contra Assadura Hipoglós Original Trata e Pr... SKU=
+Nome="30g Gel" Preco=Azelan 150mg/g Gel 30g SKU=
+Nome="30g Gel" Preco=Azelan 150mg/g Gel 30g SKU=
+Nome="150 Unidades" Preco=Hastes Flexíveis Cotonetes 150 Unidades SKU=
+Nome="150 Unidades" Preco=Hastes Flexíveis Cotonetes 150 Unidades SKU=
+Nome="800g" Preco=Fórmula Infantil NAN Supreme 1 HMOs Nestlé 0 a 6 m... SKU=
+Nome="800g" Preco=Fórmula Infantil NAN Supreme 1 HMOs Nestlé 0 a 6 m... SKU=
+Nome="800g" Preco=Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos ... SKU=
+Nome="800g" Preco=Fórmula Infantil Ninho Fases 1+ Nestlé 1 a 3 anos ... SKU=
+Nome="30 Unidades" Preco=Absorvente Intimus Noturno Cobertura Suave Com Aba... SKU=
+Nome="30 Unidades" Preco=Absorvente Intimus Noturno Cobertura Suave Com Aba... SKU=
+Nome="60ml" Preco=Protetor Solar Infantil Giovanna Baby Baby & Kids ... SKU=
+Nome="60ml" Preco=Protetor Solar Infantil Giovanna Baby Baby & Kids ... SKU=
+Nome="80 Unidades" Preco=Protetor Diário Intimus Cuidado Diário com 80 Unid... SKU=
+Nome="80 Unidades" Preco=Protetor Diário Intimus Cuidado Diário com 80 Unid... SKU=
+Nome="2 unidades" Preco=Kit AptaNutri Premium 2 latas 800g Ganhe 30% de De... SKU=
+Nome="2 unidades" Preco=Kit AptaNutri Premium 2 latas 800g Ganhe 30% de De... SKU=
+Nome="32 Unidades" Preco=Absorvente Sempre Livre Adapt Plus Cobertura Suave... SKU=
+Nome="32 Unidades" Preco=Absorvente Sempre Livre Adapt Plus Cobertura Suave... SKU=
+Nome="192 Unidades - Leve 4 Pague 3" Preco=Kit Lenço Umedecido Pampers Higiene Completa com 1... SKU=
+Nome="192 Unidades - Leve 4 Pague 3" Preco=Kit Lenço Umedecido Pampers Higiene Completa com 1... SKU=
+Nome="16 Unidades" Preco=Absorvente Interno OB Sempre Livre ProComfort Méd... SKU=
+Nome="16 Unidades" Preco=Absorvente Interno OB Sempre Livre ProComfort Méd... SKU=
+Nome="32 Unidades" Preco=Absorvente Intimus Tripla Proteção Cobertura Suave... SKU=
+Nome="32 Unidades" Preco=Absorvente Intimus Tripla Proteção Cobertura Suave... SKU=
+Nome="75 Unidades" Preco=Hastes Flexíveis Needs 75 Unidades SKU=
+Nome="75 Unidades" Preco=Hastes Flexíveis Needs 75 Unidades SKU=
+Nome="75 Unidades" Preco=Hastes Flexíveis Topz 75 Unidades SKU=
+Nome="75 Unidades" Preco=Hastes Flexíveis Topz 75 Unidades SKU=
+Nome="80 Unidades" Preco=Protetor Diário Carefree Proteção com Perfume 80 u... SKU=
+Nome="80 Unidades" Preco=Protetor Diário Carefree Proteção com Perfume 80 u... SKU=
+Nome="200ml" Preco=Shampoo Johnson's Baby Regular com 200ml SKU=
+Nome="200ml" Preco=Shampoo Johnson's Baby Regular com 200ml SKU=
+Nome="250ml" Preco=Creme Antiestrias Mustela Maternité 3 em 1 250ml SKU=
+Nome="250ml" Preco=Creme Antiestrias Mustela Maternité 3 em 1 250ml SKU=
+Nome="9ml" Preco=Protetor Solar Mustela Stick FPS 50 Alta Proteção ... SKU=
+Nome="9ml" Preco=Protetor Solar Mustela Stick FPS 50 Alta Proteção ... SKU=
+Nome="800g" Preco=Fórmula Infantil Nanlac Comfor Nestlé 1 a 3 anos 8... SKU=
+Nome="800g" Preco=Fórmula Infantil Nanlac Comfor Nestlé 1 a 3 anos 8... SKU=
+Nome="9ml" Preco=Protetor Solar Mustela Stick FPS 50 Alta Proteção ... SKU=
+Nome="9ml" Preco=Protetor Solar Mustela Stick FPS 50 Alta Proteção ... SKU=
+Nome="36 Unidades" Preco=Fralda Pampers Premium Care RN - 36 Unidades SKU=
+Nome="36 Unidades" Preco=Fralda Pampers Premium Care RN - 36 Unidades SKU=
+Nome="85g" Preco=Sabonete em Barra Protex Baby SKU=
+Nome="85g" Preco=Sabonete em Barra Protex Baby SKU=
+Nome="40ml" Preco=Creme Facial Clareador Nivea Cellular Luminous 630... SKU=
+Nome="40ml" Preco=Creme Facial Clareador Nivea Cellular Luminous 630... SKU=
+Nome="30 Cápsulas" Preco=Suplemento Alimentar Metilfolato Droga Raia com 30... SKU=
+Nome="30 Cápsulas" Preco=Suplemento Alimentar Metilfolato Droga Raia com 30... SKU=
+Nome="80g" Preco=Sabonete em Barra Johnson's Baby Glicerinado com 8... SKU=
+Nome="80g" Preco=Sabonete em Barra Johnson's Baby Glicerinado com 8... SKU=
+Nome="30g" Preco=Creme para Assadura Bepantol Baby 30g SKU=
+Nome="30g" Preco=Creme para Assadura Bepantol Baby 30g SKU=
+Nome="84un" Preco=Fralda Pampers Confort Sec XXG 84 unidades SKU=
